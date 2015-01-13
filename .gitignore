@@ -1,0 +1,6 @@
+.DS_Store
+*.pyc
+env/
+.ipynb_checkpoints/
+price-data
+btc-data
